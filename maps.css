@@ -1,0 +1,11 @@
+#map{
+  width:75vw;
+  height:60vh;
+  margin:0 auto;
+}
+
+@media screen and (max-width: 480px){
+  #map{
+    width: 95vw
+  }
+}

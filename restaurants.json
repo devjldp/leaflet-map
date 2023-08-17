@@ -1,0 +1,277 @@
+{
+
+  "1": {
+    "name": "Monte",
+    "location": "San Feliz",
+    "lat": 43.168666742885144,
+    "lon": -5.82277853346017,
+    "stars": 1,
+    "price": "$$$",
+    "web": "https://www.montesanfeliz.com/"
+  },
+  "2": {
+    "name": "Ferpel",
+    "location": "Ortiguera",
+    "lat": 43.559186584739585, 
+    "lon": -6.744753482745152,   
+    "stars": 1,
+    "price": "$$$",
+    "web": "http://ferpelgastronomico.com/"
+  },
+  "3": {
+    "name": "Ayalga",
+    "location": "Ribadesella",
+    "lat": 43.465121180964424,  
+    "lon": -5.067836163990437,
+    "stars": 1,
+    "price": "$$$",
+    "web": "https://www.ayalgavillarosario.com/"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "10": {
+    "name": "La Genuina de Cimadevilla",
+    "location": "Oviedo",
+    "lat": 43.36079300355605,
+    "lon": -5.844432255406267,
+    "stars": 0,
+    "price": "$$",
+    "web": "https://lagenuinaarroceria.es/"
+  },
+  "11": {
+    "name": "La corte de Pelayo",
+    "location": "Oviedo",
+    "lat": 43.36169712683393,
+    "lon": -5.847650686708604,
+    "stars": 0,
+    "price": "$$",
+    "web": "https://lacortedepelayo.com/"
+  },
+  "12": {
+    "name": "Asador de Aranda",
+    "location": "Oviedo",
+    "lat": 43.363736704766005,
+    "lon": -5.844406325814576,
+    "stars": 0,
+    "price": "$$",
+    "web": "https://asadordearanda.net/restaurante/asador-aranda-oviedo/"
+  },
+  "13": {
+    "name": "Sidreria Tierra Astur",
+    "location": "Oviedo",
+    "lat": 43.3640034296699,
+    "lon": -5.844236494506043,
+    "stars": 0,
+    "price": "$",
+    "web": "https://tierra-astur.com/tierra-astur-gascona/"
+  },
+  "14": {
+    "name": "Sidreria El Ferroviario",
+    "location": "Oviedo",
+    "lat": 43.36407099331872,
+    "lon": -5.844450810404003,
+    "stars": 0,
+    "price": "$",
+    "web": "http://www.elferroviario.es/"
+  },
+  "15": {
+    "name": "Sidreria El Gato Negro",
+    "location": "Oviedo",
+    "lat": 43.36060202557608, 
+    "lon": -5.843697935854107,
+    "stars": 0,
+    "price": "$",
+    "web": "https://sidreriaelgatonegro.com/"
+  },
+  "16": {
+    "name": "Gloria - Esther y Nacho Manzano",
+    "location": "Oviedo",
+    "lat": 43.363965053254134,
+    "lon": -5.856712985206426,
+    "stars": 0,
+    "price": "$$",
+    "web": "https://www.estasengloria.com/"
+  },
+  "17": {
+    "name": "Sidreria La Pomar",
+    "location": "Langreo",
+    "lat": 43.31196146126004,
+    "lon": -5.690689007387261,
+    "stars": 0,
+    "price": "$",
+    "web": "https://www.sidrerialangreo.com/"
+  },
+  "18": {
+    "name": "Sidreria Marisqueria Salamanca",
+    "location": "Langreo",
+    "lat": 43.29703701974517,
+    "lon": -5.684641905947967,
+    "stars": 0,
+    "price": "$",
+    "web": " ----- "
+  },
+  "19": {
+    "name": "Sidreria El Escalon",
+    "location": "Langreo",
+    "lat": 43.31375373774105,
+    "lon": -5.691560776579113,
+    "stars": 0,
+    "price": "$",
+    "web": "https://www.sidreriaelescalon.com/"
+  },
+  "20": {
+    "name": "Sidreria Casa Pablo",
+    "location": "Langreo",
+    "lat": 43.288033917216794,
+    "lon": -5.669962424260646,
+    "stars": 0,
+    "price": "$",
+    "web": "https://sidreriacasapablo.es/"
+  },
+  "21": {
+    "name": "Casa Adela",
+    "location": "Langreo",
+    "lat": 43.3011235899358,
+    "lon": -5.7056432466011735,
+    "stars": 0,
+    "price": "$",
+    "web": "http://www.restaurantecasaadela.com/"
+  },
+  "22": {
+    "name": "As de Picas",
+    "location": "Gijon",
+    "lat": 43.539523304477065,
+    "lon": -5.662521997099086,
+    "stars": 0,
+    "price": "$",
+    "web": "https://www.asdepicasrestaurante.com/"
+  },
+  "23": {
+    "name": "Gloria - Esther y Nacho Manzano",
+    "location": "Gijon",
+    "lat": 43.542446486683346, 
+    "lon": -5.663526169686959,
+    "stars": 0,
+    "web": "https://www.estasengloria.com/"
+  },
+  "24": {
+    "name": "Al Peso",
+    "location": "Gijon",
+    "lat": 43.53656237896064, 
+    "lon": -5.622525236844595,
+    "stars": 0,
+    "price": "$$",
+    "web": "https://alpesogijon.com/"
+  },
+  "25": {
+    "name": "V.Crespo",
+    "location": "Gijon",
+    "lat": 43.53783106906843, 
+    "lon": -5.662303199169239,
+    "stars": 0,
+    "price": "$$",
+    "web": "https://www.restaurantevcrespo.es/"
+  },
+  "26": {
+    "name": "La cocina de Lolo",
+    "location": "Gijon",
+    "lat": 43.53853032660998, 
+    "lon": -5.651773137070709,
+    "stars": 0,
+    "price": "$$",
+    "web": "https://lacocinadelolo.com/"
+  },
+  "27": {
+    "name": "restaurante Ciudadela",
+    "location": "Gijon",
+    "lat": 43.54142165412382, 
+    "lon": -5.65850608912276,
+    "stars": 0,
+    "price": "$$",
+    "web": "https://restauranteciudadela.com/"
+  },
+  "28": {
+    "name": "La Tabla",
+    "location": "Gijon",
+    "lat": 43.46138600494342, 
+    "lon": -5.621979954940117,
+    "stars": 0,
+    "price": "$$",
+    "web": "https://www.restaurantelatabla.com/"
+  },
+  "29": {
+    "name": "Casa Xisco",
+    "location": "Llanes",
+    "lat": 43.390798360638065, 
+    "lon": -4.95777736063303,
+    "stars": 0,
+    "price": "$",
+    "web": "https://www.casaxico.es/"
+  },
+  "30": {
+    "name": "La tertullia",
+    "location": "Llanes",
+    "lat": 43.43095628340706, 
+    "lon": -4.808393169252479,
+    "stars": 0,
+    "price": "$$",
+    "web": "http://www.latertuliacelorio.es/"
+  },
+  "31": {
+    "name": "Restaurante Siete Puertas",
+    "location": "Llanes",
+    "lat": 43.42038865194206, 
+    "lon": -4.754120010788786,
+    "stars": 0,
+    "price": "$$",
+    "web": " ----- "
+  },
+  "32": {
+    "name": "La Xagarda",
+    "location": "Llanes",
+    "lat": 43.39079526008945,
+    "lon": -4.957755183799286,
+    "stars": 0,
+    "price": "$$",
+    "web": ""
+  },
+  "33": {
+    "name": "Restaurante Sibariz",
+    "location": "Ribadesella",
+    "lat": 43.46329726164321,
+    "lon": -5.085222132708283,
+    "stars": 0,
+    "price": "$",
+    "web": "https://www.restaurantesibariz.es/es/"
+  },
+  "34": {
+    "name": "Sidreria El Tarteru",
+    "location": "Ribadesella",
+    "lat": 43.46363170187276, 
+    "lon": -5.057762360283498,
+    "stars": 0,
+    "price": "$",
+    "web": ""
+  },
+  "35": {
+    "name": "Meson El Labrador",
+    "location": "Ribadesella",
+    "lat": 43.461339310981494, 
+    "lon": -5.059998924702666,
+    "stars": 0,
+    "price": "$",
+    "web": ""
+  }
+}
